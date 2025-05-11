@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{6008E5D8-AF02-5BA1-ABA5-EAD8934CC616}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PoliceMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PoliceMovement.cs" Line="37" Column="54" />
+      <File FileName="Assets/Scripts/CatMovement.cs" Line="98" Column="1" />
+      <File FileName="Assets/Scripts/LevelSelector.cs" />
+      <File FileName="Assets/Scripts/CountdownTimer.cs" Line="5" Column="2" />
+      <File FileName="Assets/Scripts/BinManagement.cs" Line="23" Column="42" />
+      <File FileName="Assets/Scripts/CatAttack.cs" Line="6" Column="57" />
+      <File FileName="Assets/Scripts/GoalTrigger.cs" Line="69" Column="44" />
+      <File FileName="Assets/Scripts/GameOverTrigger.cs" Line="53" Column="1" />
+      <File FileName="Assets/Scripts/HintManager.cs" Line="22" Column="22" />
+      <File FileName="Assets/Scripts/EnergyBar.cs" Line="11" Column="6" />
+      <File FileName="Assets/showHint.cs" Line="13" Column="1" />
+      <File FileName="Assets/HideInGrassManager.cs" Line="37" Column="10" />
+      <File FileName="Assets/followCharacter.cs" Line="17" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CatRun" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PoliceMovement.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="082fad48-621e-4737-b3da-bee7cfdbe58b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
